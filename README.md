@@ -1,1 +1,3 @@
-Aplikacja webowa wspomagająca układanie planów treningowych fitness z użyciem technologii rodziny Java
+FitnessPlanApp - aplikacja webowa posiadająca bazę ćwiczeń pogrupowaną według partii mięśniowych wraz z krótkim opisem danego ćwiczenia, jego wpływu na organizm oraz opisu poprawnego wykonania (wraz z dołączonym filmem poglądowym). Aplikacja zawiera również przykładowe plany treningowe udostępniane przez administratora (np. trening siłowy, wytrzymałościowy) wraz z opisem dla kogo jest taki trening, jaki jest jego cel, jaka dieta powinna z nim współgrać itp. Aplikacja umożliwia także opcję stworzenia własnego, indywidualnego planu treningowego, a także udostępnienie go innym użytkownikom.
+* Dokumentacja znajduje się w pliku W04_229218_2020_praca inżynierska.pdf
+* Opis uruchomienia znajduje się w pliku Opis uruchomienia.pdf
